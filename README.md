@@ -22,7 +22,7 @@
 
 I am a computer science and engineering student specializing in Artificial Intelligence, based in Tripoli, Libya, with a primary focus on on-device AI and mobile machine learning. My work centers on the model compression pipeline — quantization, pruning, and efficient inference — with the goal of deploying capable models on smartphones and edge hardware without dependence on cloud infrastructure.
 
-I am particularly interested in the tradeoffs between model accuracy, latency, and memory footprint when targeting constrained deployment environments. I work with INT8/FP16 quantization and runtime optimization using ONNX Runtime and TFLite as primary inference frameworks.
+I am particularly interested in the tradeoffs between model accuracy, latency, and memory footprint when targeting constrained deployment environments. I work with INT8/FP16 quantization and runtime optimization using ONNX Runtime and LiteRT as primary inference frameworks.
 
 ---
 
@@ -32,7 +32,7 @@ I am particularly interested in the tradeoffs between model accuracy, latency, a
 |------|-------------|
 | **On-Device Inference** | Deploying compressed models on mobile and edge hardware with no cloud dependency |
 | **Model Compression** | Quantization (INT8/FP16), structured pruning, and knowledge distillation |
-| **Mobile ML Runtimes** | Optimizing model execution with ONNX Runtime and TFLite |
+| **Mobile ML Runtimes** | Optimizing model execution with ONNX Runtime and LiteRT |
 | **Efficiency Research** | Analyzing latency, memory, and accuracy tradeoffs for real-world mobile deployment |
 
 ---
@@ -49,7 +49,7 @@ I am particularly interested in the tradeoffs between model accuracy, latency, a
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LiteRT](https://img.shields.io/badge/LiteRT-FF6F00?style=flat-square&logo=google&logoColor=white)
 
 **Platforms**
 
