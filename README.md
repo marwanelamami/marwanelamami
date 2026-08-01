@@ -20,7 +20,7 @@
 
 ## About
 
-I am a computer science student based in Tripoli, Libya, with a primary focus on on-device AI and mobile machine learning. My work centers on the model compression pipeline — quantization, pruning, and efficient inference — with the goal of deploying capable models on smartphones and edge hardware without dependence on cloud infrastructure.
+I am a computer science and engineering student specializing in Artificial Intelligence, based in Tripoli, Libya, with a primary focus on on-device AI and mobile machine learning. My work centers on the model compression pipeline — quantization, pruning, and efficient inference — with the goal of deploying capable models on smartphones and edge hardware without dependence on cloud infrastructure.
 
 I am particularly interested in the tradeoffs between model accuracy, latency, and memory footprint when targeting constrained deployment environments. I work with INT8/FP16 quantization and runtime optimization using ONNX Runtime and TFLite as primary inference frameworks.
 
