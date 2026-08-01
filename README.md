@@ -1,4 +1,4 @@
-<![CDATA[<h1 align="center">Hi, I'm Marwan Elamami 👋</h1>
+<h1 align="center">Hi, I'm Marwan Elamami 👋</h1>
 
 <p align="center">
   <b>AI/ML Researcher · Arabic NLP · Competitive Programmer · Tech Ambassador 🇱🇾</b>
@@ -81,4 +81,3 @@ I'm an AI/ML enthusiast from **Tripoli, Libya 🇱🇾**, focused on building in
 <p align="center">
   <i>"Building AI that speaks Arabic — because language is identity."</i>
 </p>
-]]>
