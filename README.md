@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Marwan Elamami 👋</h1>
+<h1 align="center">Marwan Elamami</h1>
 
 <p align="center">
-  <b>AI/ML Researcher · Arabic NLP · Competitive Programmer · Tech Ambassador 🇱🇾</b>
+  AI/ML Researcher &nbsp;&middot;&nbsp; Arabic NLP &nbsp;&middot;&nbsp; Competitive Programmer &nbsp;&middot;&nbsp; Libya
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/marwanelamami" target="_blank">
+  <a href="https://www.kaggle.com/marwanelamami">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://huggingface.co/marwanelamami" target="_blank">
+  <a href="https://huggingface.co/marwanelamami">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
   <a href="mailto:marwanelamami@gmail.com">
@@ -18,19 +18,26 @@
 
 ---
 
-## 🧠 About Me
+## About
 
-I'm an AI/ML enthusiast from **Tripoli, Libya 🇱🇾**, focused on building intelligent search and retrieval systems for the **Arabic language**. I work at the intersection of NLP, information retrieval, and on-device AI — making AI accessible for Arabic-speaking users.
+I'm a computer science student based in Tripoli, Libya, with a focus on Arabic natural language processing and information retrieval. Most of my work revolves around building search and reranking systems for Arabic text — an area that remains largely underserved compared to English NLP.
 
-- 🔭 Currently building: **Arabic e-commerce search & reranking systems** using embedding + cross-encoder models
-- 🌱 Exploring: Model quantization (INT8/FP16), on-device AI, and agentic AI systems
-- 🏆 Active on **Kaggle** and **Codeforces** — competitive programming & ML challenges
-- 🤝 Campus Ambassador for **Perplexity AI** & **Replit** at my university
-- 💬 Ask me about: Arabic NLP, semantic search, fine-tuning LLMs, or algorithm design
+I'm currently developing Arabic e-commerce search pipelines using embedding and cross-encoder models, and exploring lightweight model deployment through quantization techniques (INT8/FP16). Outside of research, I compete in algorithmic programming and serve as a campus ambassador for Perplexity AI and Replit.
 
 ---
 
-## 🛠️ Tech Stack
+## Work & Interests
+
+| Area | Description |
+|------|-------------|
+| **Arabic Search & Retrieval** | Bi-encoder and cross-encoder models for Arabic e-commerce query matching |
+| **LLM Fine-Tuning** | Fine-tuning transformer-based models for Arabic NLP tasks |
+| **On-Device AI** | Model quantization and efficient inference for edge deployment |
+| **Competitive Programming** | Algorithm design and problem solving in C++ on Codeforces |
+
+---
+
+## Tech Stack
 
 **Languages**
 
@@ -54,18 +61,7 @@ I'm an AI/ML enthusiast from **Tripoli, Libya 🇱🇾**, focused on building in
 
 ---
 
-## 🚀 Focus Areas
-
-| Area | Description |
-|------|-------------|
-| 🔍 **Arabic Search Retrieval** | Embedding & cross-encoder models for Arabic e-commerce queries |
-| 🤖 **LLM Fine-Tuning** | Fine-tuning transformer models for Arabic NLP tasks |
-| ⚡ **On-Device AI** | Lightweight, quantized models for edge deployment |
-| 🏅 **Competitive Programming** | Algorithm design, Codeforces, problem solving in C++ |
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marwanelamami&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -74,10 +70,4 @@ I'm an AI/ML enthusiast from **Tripoli, Libya 🇱🇾**, focused on building in
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwanelamami&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>"Building AI that speaks Arabic — because language is identity."</i>
 </p>
