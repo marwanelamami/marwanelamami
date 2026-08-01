@@ -1,7 +1,7 @@
 <h1 align="center">Marwan Elamami</h1>
 
 <p align="center">
-  AI/ML Researcher &nbsp;&middot;&nbsp; Arabic NLP &nbsp;&middot;&nbsp; Competitive Programmer &nbsp;&middot;&nbsp; Libya
+  On-Device AI &nbsp;&middot;&nbsp; Mobile ML &nbsp;&middot;&nbsp; Model Optimization &nbsp;&middot;&nbsp; Libya
 </p>
 
 <p align="center">
@@ -20,20 +20,20 @@
 
 ## About
 
-I'm a computer science student based in Tripoli, Libya, with a focus on Arabic natural language processing and information retrieval. Most of my work revolves around building search and reranking systems for Arabic text — an area that remains largely underserved compared to English NLP.
+I'm a computer science student from Tripoli, Libya, working on making AI models run efficiently on mobile devices and edge hardware. My interest is in the full pipeline from training to deployment — compressing, quantizing, and optimizing models so they can operate in constrained environments without relying on cloud inference.
 
-I'm currently developing Arabic e-commerce search pipelines using embedding and cross-encoder models, and exploring lightweight model deployment through quantization techniques (INT8/FP16). Outside of research, I compete in algorithmic programming and serve as a campus ambassador for Perplexity AI and Replit.
+I care about closing the gap between state-of-the-art AI and the hardware that most people in the world actually use. A lot of my work involves INT8/FP16 quantization, model pruning, and runtime optimization for on-device inference frameworks.
 
 ---
 
-## Work & Interests
+## Focus Areas
 
 | Area | Description |
 |------|-------------|
-| **Arabic Search & Retrieval** | Bi-encoder and cross-encoder models for Arabic e-commerce query matching |
-| **LLM Fine-Tuning** | Fine-tuning transformer-based models for Arabic NLP tasks |
-| **On-Device AI** | Model quantization and efficient inference for edge deployment |
-| **Competitive Programming** | Algorithm design and problem solving in C++ on Codeforces |
+| **On-Device Inference** | Deploying optimized models on mobile and edge hardware without cloud dependency |
+| **Model Compression** | Quantization (INT8/FP16), pruning, and knowledge distillation for lightweight models |
+| **Mobile ML Frameworks** | Working with ONNX Runtime, TFLite, and similar runtimes for on-device execution |
+| **ML Optimization** | Profiling and tuning model efficiency — latency, memory footprint, and accuracy tradeoffs |
 
 ---
 
@@ -43,13 +43,13 @@ I'm currently developing Arabic e-commerce search pipelines using embedding and 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Platforms & Tools**
 
@@ -57,7 +57,6 @@ I'm currently developing Arabic e-commerce search pipelines using embedding and 
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Modal](https://img.shields.io/badge/Modal.com-000000?style=flat-square&logo=modal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 ---
 
